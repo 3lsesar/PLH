@@ -1,3 +1,2 @@
 
 
-Los n-gramas de palabras son trigramas o unigramas?
