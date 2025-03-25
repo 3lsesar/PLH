@@ -1,2 +1,0 @@
-repetir para word trigrams (medio empezado)
-
